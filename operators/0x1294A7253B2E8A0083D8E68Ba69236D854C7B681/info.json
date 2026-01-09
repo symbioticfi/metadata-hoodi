@@ -1,0 +1,14 @@
+{
+  "name": "Mock Operator",
+	"description": "operator description",
+	"tags": [
+		"operator"
+	],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x1294A7253B2E8A0083D8E68Ba69236D854C7B681"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "A Network with Rewards",
+	"description": "A Mock Network for Staker Rewards guide",
+	"tags": [
+		"network"
+	],
+    "links": [
+        {
+          "type": "explorer",
+          "name": "Etherscan",
+          "url": "https://hoodi.etherscan.io/address/0x87B1F9EA43b62de6F803b1eAA70DBbee99Ef3880"
+        }
+    ]
+}

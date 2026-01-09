@@ -1,0 +1,15 @@
+{
+	"name": "Rewarded wstETH Vault",
+	"description": "A mock vault for testing the StakerRewards flow",
+	"tags": [
+		"vault",
+		"mock"
+	],
+	"links": [
+		{
+			"type": "explorer",
+			"name": "Etherscan",
+			"url": "https://hoodi.etherscan.io/address/0xb29BAD40B00587dE1145C7862F96746f043b9daD"
+		}
+	]
+}

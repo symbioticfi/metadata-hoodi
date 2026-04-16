@@ -1,0 +1,14 @@
+{
+  "name": "Vault with adapters",
+  "description": "Symbiotic is a shared security protocol designed to create a marketplace for economic security. It enables networks that need security to access it from those who have assets to stake, creating an efficient ecosystem where stake can be shared and utilized across multiple networks. Through its flexible architecture, stake providers can maximize their returns while networks can obtain the security guarantees they need.",
+  "tags": [
+    "vault"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xf4c54edd48dc3a66b4426f2b32243771905c56d5"
+    }
+  ]
+}

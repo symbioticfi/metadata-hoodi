@@ -1,0 +1,33 @@
+{
+    "name": "AndToken",
+    "description": "stETH is a transferable rebasing utility token representing a share of the total ETH staked through the protocol, which consists of user deposits and staking rewards. Because stETH rebases daily, it communicates the position of the share daily.",
+    "tags": [
+      "token",
+      "wstETH"
+    ],
+    "links": [
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://hoodi.etherscan.io/token/0x7e99ee3c66636de415d2d7c880938f2f40f94de4"
+      },
+      {
+        "type": "website",
+        "name": "Website",
+        "url": "https://lido.fi/ethereum"
+      },
+      {
+        "type": "docs",
+        "name": "Lido Documentation",
+        "url": "https://docs.lido.fi/"
+      },
+      {
+        "type": "example",
+        "name": "wstETH rollup bridging guide",
+        "url": "https://docs.lido.fi/token-guides/wsteth-bridging-guide"
+      }
+    ],
+    "cmcId": "12409",
+    "permitName": "Wrapped liquid staked Ether 2.0",
+    "permitVersion": "1"
+  }

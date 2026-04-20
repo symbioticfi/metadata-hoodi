@@ -28,5 +28,6 @@
 			"url": "https://docs.symbiotic.fi/manuals/contracts#contracts-assumptions"
 		}
 	],
-	"vaultType": "eth-restaking"
+	"vaultType": "eth-restaking",
+	"curatorId": "curator-1"
 }

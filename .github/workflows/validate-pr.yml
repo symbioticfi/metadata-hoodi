@@ -42,5 +42,5 @@ jobs:
           upstream-checkout-path: upstream
           network-registry: "0x7d03b7343bf8d5cec7c0c27ece084a20113d15c9"
           operator-registry: "0x6f75a4fff97326a00e52662d82ea4fde86a2c548"
-          vault-registry: "0x36508C78d71FF1fe732e634C1b7674A7f999b246"
+          vault-registry: "0xdd97Fea6Bbe5243d3b8e68287327eE32F90DfD25"
           adapter-registry: "0xc8fba0f6b269f3eb6aa2d1cc571c22552757133f"

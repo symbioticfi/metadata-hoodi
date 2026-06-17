@@ -1,0 +1,18 @@
+{
+    "name": "aUSD",
+    "description": "aUSD - Agora USD",
+    "tags": [
+      "token",
+      "aUSD"
+    ],
+    "links": [
+      {
+        "type": "explorer",
+        "name": "Etherscan",
+        "url": "https://hoodi.etherscan.io/token/0x7e99ee3c66636de415d2d7c880938f2f40f94de4"
+      }
+    ],
+    "cmcId": "32864",
+    "permitName": "Agora USD",
+    "permitVersion": "1"
+  }

@@ -1,0 +1,15 @@
+{
+  "name": "Exclusive Adapter 20ac",
+  "description": "Hoodi testnet Exclusive adapter, used for integration testing.",
+  "tags": [
+    "adapter",
+    "EXCLUSIVE"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x20ac136d119c87ecc100e75f5469a2c5695b1abc"
+    }
+  ]
+}

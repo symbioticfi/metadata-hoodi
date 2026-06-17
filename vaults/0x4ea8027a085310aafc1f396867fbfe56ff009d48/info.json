@@ -1,0 +1,16 @@
+{
+  "name": "aUSD Vault 4ea8",
+  "description": "Hoodi testnet V2 vault with aUSD collateral, used for integration testing.",
+  "tags": [
+    "vault",
+    "token:aUSD",
+    "V2"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x4ea8027a085310aafc1f396867fbfe56ff009d48"
+    }
+  ]
+}

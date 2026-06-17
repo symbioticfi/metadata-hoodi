@@ -1,0 +1,15 @@
+{
+  "name": "Aave V3 Adapter cfda",
+  "description": "Hoodi testnet Aave V3 adapter, used for integration testing.",
+  "tags": [
+    "adapter",
+    "AAVE_V3"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xcfda6c6c2bc48ae2ea1ce056b02ef0da62b444bc"
+    }
+  ]
+}

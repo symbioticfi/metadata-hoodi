@@ -1,0 +1,16 @@
+{
+  "name": "USDC Vault d033",
+  "description": "Hoodi testnet V2 vault with USDC collateral, used for integration testing.",
+  "tags": [
+    "vault",
+    "token:USDC",
+    "V2"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xd03384609f71a3d502eecdea04cff292f4a8b0c7"
+    }
+  ]
+}

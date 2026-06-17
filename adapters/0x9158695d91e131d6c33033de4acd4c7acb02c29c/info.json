@@ -1,0 +1,15 @@
+{
+  "name": "Liquid Lane Adapter 9158",
+  "description": "Hoodi testnet Liquid Lane adapter, used for integration testing.",
+  "tags": [
+    "adapter",
+    "LIQUID_LANE"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x9158695d91e131d6c33033de4acd4c7acb02c29c"
+    }
+  ]
+}

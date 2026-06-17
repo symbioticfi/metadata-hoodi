@@ -1,0 +1,15 @@
+{
+  "name": "Liquid Lane Adapter fcf0",
+  "description": "Hoodi testnet Liquid Lane adapter, used for integration testing.",
+  "tags": [
+    "adapter",
+    "LIQUID_LANE"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xfcf0b65e988920766be4aa88a087069f7681765a"
+    }
+  ]
+}

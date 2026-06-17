@@ -1,0 +1,14 @@
+{
+  "name": "Network c056",
+  "description": "Hoodi testnet network (referenced by app adapters), used for integration testing.",
+  "tags": [
+    "network"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xc056736be7c05790667cdb678c03eb09f616e157"
+    }
+  ]
+}

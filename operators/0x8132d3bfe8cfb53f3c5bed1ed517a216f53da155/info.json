@@ -1,0 +1,14 @@
+{
+  "name": "Operator 8132",
+  "description": "Hoodi testnet operator, used for integration testing.",
+  "tags": [
+    "operator"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x8132d3bfe8cfb53f3c5bed1ed517a216f53da155"
+    }
+  ]
+}

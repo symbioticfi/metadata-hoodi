@@ -1,0 +1,15 @@
+{
+  "name": "Morpho Vault V2 Adapter d702",
+  "description": "Hoodi testnet Morpho Vault V2 adapter, used for integration testing.",
+  "tags": [
+    "adapter",
+    "MORPHO_VAULT_V2"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xd70253327b665806e792ec4cb6d4740c6f227f02"
+    }
+  ]
+}

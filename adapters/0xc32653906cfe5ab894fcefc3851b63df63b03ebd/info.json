@@ -1,0 +1,15 @@
+{
+  "name": "App Adapter c326",
+  "description": "Hoodi testnet App adapter, used for integration testing.",
+  "tags": [
+    "adapter",
+    "APP"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xc32653906cfe5ab894fcefc3851b63df63b03ebd"
+    }
+  ]
+}

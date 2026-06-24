@@ -1,0 +1,17 @@
+{
+  "name": "Testnet aUSD Restaking Vault",
+  "description": "Testnet aUSD restaking vault on Hoodi, part of the Symbiotic v2 deployment. Built on top of the aUSD vault via the RestakingApp adapter and used for integration testing.",
+  "tags": [
+    "vault",
+    "testnet",
+    "ausd",
+    "restaking"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x595698180Ca666A41236a8383DbE77a23Fa0Dd85"
+    }
+  ]
+}

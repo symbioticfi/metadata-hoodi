@@ -1,0 +1,17 @@
+{
+  "name": "USDC LiquidLane Adapter",
+  "description": "Hoodi testnet LiquidLane adapter for the USDC vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "liquid-lane",
+    "usdc"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x8DCC2515dE40c62d09125db5551de02603C70190"
+    }
+  ]
+}

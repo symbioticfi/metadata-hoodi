@@ -1,0 +1,17 @@
+{
+  "name": "Testnet USDC Restaking Vault",
+  "description": "Testnet USDC restaking vault on Hoodi, part of the Symbiotic v2 deployment. Built on top of the USDC vault via the RestakingApp adapter and used for integration testing.",
+  "tags": [
+    "vault",
+    "testnet",
+    "usdc",
+    "restaking"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x81012fDcf7a4f53efCBCE2193D1531E09b2f676B"
+    }
+  ]
+}

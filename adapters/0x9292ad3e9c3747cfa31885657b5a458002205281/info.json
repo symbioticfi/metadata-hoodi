@@ -1,0 +1,17 @@
+{
+  "name": "aUSD LiquidLane Adapter",
+  "description": "Hoodi testnet LiquidLane adapter for the aUSD vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "ausd",
+    "liquid-lane"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x9292Ad3e9C3747cFA31885657B5A458002205281"
+    }
+  ]
+}

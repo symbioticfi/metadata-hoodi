@@ -1,0 +1,17 @@
+{
+  "name": "USDC Morpho Adapter",
+  "description": "Hoodi testnet Morpho Vault V2 adapter for the USDC vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "usdc",
+    "morpho"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xE653D691e4eC52708C04D02CeCdAcFCC761aEd9d"
+    }
+  ]
+}

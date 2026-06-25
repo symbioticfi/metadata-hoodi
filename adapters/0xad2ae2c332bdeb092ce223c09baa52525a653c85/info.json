@@ -1,0 +1,17 @@
+{
+  "name": "USDC App Adapter",
+  "description": "Hoodi testnet App adapter for the USDC vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "usdc",
+    "app"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xad2Ae2C332BDEb092CE223c09baA52525a653c85"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "USDC Restaking Adapter",
+  "description": "Hoodi testnet RestakingApp adapter for the USDC vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "usdc",
+    "restaking"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x1f2792Ab4F5b7F5bF364796f804170c51Dd6d1e5"
+    }
+  ]
+}

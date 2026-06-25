@@ -1,0 +1,17 @@
+{
+  "name": "USDC Aave V3 Adapter",
+  "description": "Hoodi testnet Aave V3 adapter for the USDC vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "usdc",
+    "aave-v3"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0x23643a0221e0359C536c4c86F2205EE9f4Ec82a2"
+    }
+  ]
+}

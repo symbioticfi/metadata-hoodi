@@ -1,0 +1,17 @@
+{
+  "name": "aUSD App Adapter",
+  "description": "Hoodi testnet App adapter for the aUSD vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "ausd",
+    "app"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xe2f82636DE875cac4e9aeD2453BE10eBA7890f80"
+    }
+  ]
+}

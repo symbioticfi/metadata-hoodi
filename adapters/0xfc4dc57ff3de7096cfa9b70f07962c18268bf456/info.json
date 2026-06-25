@@ -1,0 +1,17 @@
+{
+  "name": "aUSD Morpho Adapter",
+  "description": "Hoodi testnet Morpho Vault V2 adapter for the aUSD vault, part of the Symbiotic v2 deployment. Used for integration testing.",
+  "tags": [
+    "adapter",
+    "testnet",
+    "ausd",
+    "morpho"
+  ],
+  "links": [
+    {
+      "type": "explorer",
+      "name": "Etherscan",
+      "url": "https://hoodi.etherscan.io/address/0xFC4dc57fF3De7096CfA9b70f07962c18268bF456"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Qa vault v2",
+  "description": "New test vault from curator app",
+  "tags": [
+    "defi",
+    "qa",
+    "v2"
+  ],
+  "links": [
+    {
+      "type": "website",
+      "name": "symb",
+      "url": "https://symbiotic.fi"
+    }
+  ]
+}
